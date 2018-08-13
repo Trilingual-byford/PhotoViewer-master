@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView mRecyclerView;
     List<PhotoBean> mData;
     BaseQuickAdapter mAdapter;
+    //this is test spot 1.
     String keyWord="こんにちは";
 
     @Override
@@ -57,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
         initData();
         initListener();
+        //test spot2
         httpRequest();   //Init photo
     }
     private void setCustomActionBar() {
@@ -71,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
+        //finaltest
         mData = new ArrayList<>();
         mAdapter = new BaseQuickAdapter<PhotoBean, BaseViewHolder>(R.layout.item_view, mData) {
 
