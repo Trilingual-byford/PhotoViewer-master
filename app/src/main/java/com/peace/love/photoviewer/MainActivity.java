@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
     BaseQuickAdapter mAdapter;
     //this is test spot 1.
     String keyWord="こんにちは";
+    //konnichiha
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
