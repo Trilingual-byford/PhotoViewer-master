@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     //this is test spot 1.
     String keyWord="こんにちは";
     //konnichiha
-    //local  MUST win!
+    //remote must remain
     //local can change something
     @Override
     protected void onCreate(Bundle savedInstanceState) {
