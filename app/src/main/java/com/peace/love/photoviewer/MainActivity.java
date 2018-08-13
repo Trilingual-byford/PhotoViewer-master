@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
     String keyWord="こんにちは";
     //konnichiha
     //remote must remain
+    //i dont think i can control it
     //local can change something
     @Override
     protected void onCreate(Bundle savedInstanceState) {
