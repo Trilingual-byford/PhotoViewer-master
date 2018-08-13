@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     String keyWord="こんにちは";
     //konnichiha
     //local  MUST win!
-
+    //local can change something
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
