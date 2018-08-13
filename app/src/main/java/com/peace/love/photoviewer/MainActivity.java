@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         mSearchView = findViewById(R.id.sv);
         mSwipeRefreshLayout = findViewById(R.id.swr);
         mRecyclerView = findViewById(R.id.rv);
-
+        //u are my heart
         initData();
         initListener();
         //test spot2
